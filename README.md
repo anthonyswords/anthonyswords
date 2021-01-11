@@ -1,4 +1,4 @@
-### Hi, I´m Pau!👋
+### Hey there, I´m Toni, welcome to my space!👋
 
 <p align="center">
  
@@ -6,10 +6,10 @@
 
 </p>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=pausancho.pausancho)
-[![Github](https://img.shields.io/github/followers/pausancho?label=Follow&style=social)](https://github.com/pausancho)
+![](https://visitor-badge.laobi.icu/badge?page_id=anthonyswords.anthonyswords)
+[![Github](https://img.shields.io/github/followers/pausancho?label=Follow&style=social)](https://github.com/anthonyswords)
 
-I am a Sports Analytics enthusiast and Data Analyst. I am passionate about technologies and I love to lear new things especially anything related to sabermetrics. :baseball:
+I'm a optimist Data Scientist Student and a powerful IronHacker graduated in Data Analysis. Passionate about sports.
 
 #### :hammer_and_wrench: My Tech Stack 
 
@@ -20,19 +20,17 @@ I am a Sports Analytics enthusiast and Data Analyst. I am passionate about techn
 <img src="https://camo.githubusercontent.com/0ca04e91ece7319790b2d3efa011fc8e613a3eab983018493a8510f243d33b80/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d6565653f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d463035303332" alt="Git" height="20" style="vertical-align:top; margin:4px">
 </p>
 
-#### :blue_book: Sometimes I enjoy writing articles:
 
-[<img src="https://camo.githubusercontent.com/49c80c79c674e543c2c7c2ee7930cc15791f4bd56da17c4b3c91c273349bef8d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d656469756d2d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" alt="medium" height="30" style="vertical-align:top; margin:4px">](https://pausanchogonzalez.medium.com/)
 
 #### :chart_with_upwards_trend: My Github Stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pausancho&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pausancho&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyswords&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyswords&theme=tokyonight)
 
 
 
 <!--
-**pausancho/pausancho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**anthonyswords/anthonyswords** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
  
 
