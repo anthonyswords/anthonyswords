@@ -20,6 +20,18 @@ I'm a optimist Data Scientist Student and a powerful IronHacker graduated in Dat
 <img src="https://camo.githubusercontent.com/0ca04e91ece7319790b2d3efa011fc8e613a3eab983018493a8510f243d33b80/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d6565653f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d463035303332" alt="Git" height="20" style="vertical-align:top; margin:4px">
 </p>
 
+:card_index_dividers: &nbsp; Here i leave you links to my **main projects** and a small decription of them : :arrow_heading_down: 
+
+* :cop: [Traffic injuries prediction Machine Learning](https://github.com/anthonyswords/Final_Project): A Recurrent Machine Learning model (LSTM) that is able to learn and predict the grade of injuries that one accidents occurs inside Barcelona in different zones.
+
+* :musical_note: [Song Recommender](https://github.com/anthonyswords/Project-3-Gnoosic): App that recommends songs from a 100k song database ( gathered from Spotify API & Webscrapping) based on
+
+* :soccer: [Predicts as data analyst, decides as referee.](https://github.com/anthonyswords/Referee-as-data-analyst): The next weekend I'm be called as assitant reff for one match in 2 Division B. Both teams are located in the top classification league fighting for the first position. However, what I supposed to know furthermore the their seeking victory? 
+
+* :family_man_woman_girl_boy: [Covid19-PCR in Barcelona Analysis](https://github.com/anthonyswords/Project-Week-2-Barcelona/tree/master/your-project): Pau and Toni are a team of data analyst that works for the Catalonian Health Department Goverment and we've recently been assigned the task of finding the Barcelona neighborhood that is more likely to have a Covid-19 outbreak.
+
+* :video_game: [Hangman Game](https://github.com/anthonyswords/Project-Week-1-Build-Your-Own-Game/tree/master/your-project): Hangman Based Game
+
 
 
 #### :chart_with_upwards_trend: My Github Stats:
